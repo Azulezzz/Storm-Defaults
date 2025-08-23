@@ -1,0 +1,105 @@
+{
+  "MetaData": {
+    "Name": "Azure Horizon",
+    "Author": "Script-Ware LTD",
+    "Description": "A theme inspired by Script-Ware v3's blue color scheme.",
+    "PreviewImage": "",
+    "TitleImage": "https://i.imgur.com/LOyrrQ7.png"
+  },
+
+  "ExplorerBorder": {
+    "Background": "#0b0f1a",
+    "BorderBrush": "#101524"
+  },
+  "Terminal": {
+    "Background": "#0b0f1a",
+    "BorderBrush": "#101524"
+  },
+  "TitleBar": {
+    "Background": "#0e1422",
+    "BorderBrush": "#101524"
+  },
+  "DebugInfoBorder": {
+    "Background": "#0e1422",
+    "BorderBrush": "#101524"
+  },
+  "FileGrid": {
+    "Background": "#0b0f1a",
+    "BorderBrush": "#101524"
+  },
+  "SettingsSidebar": {
+    "Background": "#0d121f",
+    "BorderBrush": "#101524"
+  },
+  "SettingsMainUi": {
+    "Background": "#0c111d",
+    "BorderBrush": "#101524"
+  },
+  "ThemeBorder": {
+    "Background": "#0b0f1a",
+    "BorderBrush": "#101524"
+  },
+  "TabBackgroundBehind": {
+    "Background": "#0b0f1a",
+    "BorderBrush": "#101524"
+  },
+
+  "InputBox": {
+    "Background": "#0e1422",
+    "BorderBrush": "#101524"
+  },
+  "RepoInsalltitleBar": { 
+    "Background": "#0e1422",
+    "BorderBrush": "#101524"
+  },
+  "ConfirmCoreBorder": {
+    "Background": "#0e1422",
+    "BorderBrush": "#0b0f1a"
+  },
+  "SplashStartup": {
+    "Background": "#0c111d",
+    "BorderBrush": "#101524"
+  },
+
+  "EditorBackground": "#0b0f1a",
+  "TabBackgroundColor": "#0b0f1a",
+  "TabSelectedBackgroundColor": "#12192a",
+  "TabBorderBrushColor": "#101524",
+  "TabTopBarColor": "#429bfb",
+  "TabForegroundColor": "#ffff00",
+  "TabSelectedForegroundColor": "#0000ff",
+  "TabCloseButtonForegroundColor": "#FFFFFF",
+  "TabHoverBackgroundColor": "#12192a",
+  "TabHoverForegroundColor": "#000000",
+  "TabInactiveBackgroundColor": "#0b0f1a",
+  "TabDisabledBackgroundColor": "#444444",
+  "TabDisabledForegroundColor": "#777777",
+  "TabUnfocusedSelectedBackgroundColor": "#2222aa",
+  "TabUnfocusedSelectedForegroundColor": "#eeeeee",
+  "TabMouseOverCloseButtonColor": "#ff2222",
+
+  "EditorColors": {
+    "editor.background": "#0b0f1a",
+    "editor.foreground": "#AAAAAA",
+    "editorLineNumber.foreground": "#FFFFFF",
+    "editorLineNumber.activeForeground": "#FFFFFF",
+    "editorCursor.foreground": "#FFFFFF",
+    "editor.selectionBackground": "#222222",
+    "editor.lineHighlightBackground": "#FFFFFF10",
+    "editorIndentGuide.background": "#1e1e1e",
+    "editorIndentGuide.activeBackground": "#383838",
+    "editorSuggestWidget.background": "#0b0f1a",
+    "editorSuggestWidget.border": "#2c2c2c",
+    "editorSuggestWidget.foreground": "#AAAAAA",
+    "editorSuggestWidget.selectedBackground": "#12192a",
+    "editorSuggestWidget.highlightForeground": "#FFFFFF",
+    "editorHoverWidget.background": "#0b0f1a",
+    "editorHoverWidget.border": "#2c2c2c",
+    "editorHoverWidget.foreground": "#AAAAAA",
+    "editorWidget.background": "#0b0f1a",
+    "editorWidget.border": "#2c2c2c"
+  },
+
+  "ToolTipBackgroundColor": "#171724",
+  "ToolTipBorderBrushColor": "#2B2B2B"
+}

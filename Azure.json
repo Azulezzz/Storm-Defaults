@@ -1,105 +1,107 @@
 {
   "MetaData": {
-    "Name": "Azure Horizon",
+    "Name": "Azure Horizon Alive",
     "Author": "Script-Ware LTD",
-    "Description": "A theme inspired by Script-Ware v3's blue color scheme.",
+    "Description": "Dark pastel blue theme with more vibrant accents and alive contrasts.",
     "PreviewImage": "",
-    "TitleImage": "https://i.imgur.com/LOyrrQ7.png"
+    "TitleImage": "https://i.imgur.com/U94SLKJ.png"
   },
 
   "ExplorerBorder": {
     "Background": "#0b0f1a",
-    "BorderBrush": "#101524"
+    "BorderBrush": "#182133"
   },
   "Terminal": {
     "Background": "#0b0f1a",
-    "BorderBrush": "#101524"
+    "BorderBrush": "#131b2d"
   },
   "TitleBar": {
-    "Background": "#0e1422",
-    "BorderBrush": "#101524"
+    "Background": "#10192b",
+    "BorderBrush": "#182133"
   },
   "DebugInfoBorder": {
-    "Background": "#0e1422",
-    "BorderBrush": "#101524"
+    "Background": "#10192b",
+    "BorderBrush": "#182133"
   },
   "FileGrid": {
     "Background": "#0b0f1a",
-    "BorderBrush": "#101524"
-  },
-  "SettingsSidebar": {
-    "Background": "#0d121f",
-    "BorderBrush": "#101524"
-  },
-  "SettingsMainUi": {
-    "Background": "#0c111d",
-    "BorderBrush": "#101524"
+    "BorderBrush": "#182133"
   },
   "ThemeBorder": {
-    "Background": "#0b0f1a",
-    "BorderBrush": "#101524"
+    "Background": "#182133",
+    "BorderBrush": "#182133"
   },
   "TabBackgroundBehind": {
     "Background": "#0b0f1a",
-    "BorderBrush": "#101524"
+    "BorderBrush": "#182133"
   },
 
   "InputBox": {
-    "Background": "#0e1422",
-    "BorderBrush": "#101524"
+    "Background": "#141d30",
+    "BorderBrush": "#1c2740"
   },
-  "RepoInsalltitleBar": { 
-    "Background": "#0e1422",
-    "BorderBrush": "#101524"
+  "RepoInsalltitleBar": {
+    "Background": "#141d30",
+    "BorderBrush": "#1c2740"
   },
   "ConfirmCoreBorder": {
-    "Background": "#0e1422",
-    "BorderBrush": "#0b0f1a"
+    "Background": "#141d30",
+    "BorderBrush": "#0c101a"
   },
   "SplashStartup": {
-    "Background": "#0c111d",
-    "BorderBrush": "#101524"
+    "Background": "#10192b",
+    "BorderBrush": "#1c2740"
   },
 
-  "EditorBackground": "#0b0f1a",
+  "EditorBackground": "#101624",
   "TabBackgroundColor": "#0b0f1a",
-  "TabSelectedBackgroundColor": "#12192a",
-  "TabBorderBrushColor": "#101524",
-  "TabTopBarColor": "#429bfb",
-  "TabForegroundColor": "#ffff00",
-  "TabSelectedForegroundColor": "#0000ff",
-  "TabCloseButtonForegroundColor": "#FFFFFF",
-  "TabHoverBackgroundColor": "#12192a",
-  "TabHoverForegroundColor": "#000000",
-  "TabInactiveBackgroundColor": "#0b0f1a",
-  "TabDisabledBackgroundColor": "#444444",
-  "TabDisabledForegroundColor": "#777777",
-  "TabUnfocusedSelectedBackgroundColor": "#2222aa",
-  "TabUnfocusedSelectedForegroundColor": "#eeeeee",
-  "TabMouseOverCloseButtonColor": "#ff2222",
+  "TabSelectedBackgroundColor": "#0f1d33",  
+  "TabBorderBrushColor": "#1c2740",
+  "TabTopBarColor": "#8fb9e8",  
+  "TabForegroundColor": "#cfd7e0",
+  "TabSelectedForegroundColor": "#ffffff",
+  "TabCloseButtonForegroundColor": "#d6d6d6",
+  "TabHoverBackgroundColor": "#1e2c47",  
+  "TabHoverForegroundColor": "#ffffff",
+  "TabInactiveBackgroundColor": "#0d131f",
+  "TabDisabledBackgroundColor": "#3a4052",
+  "TabDisabledForegroundColor": "#868c9b",
+  "TabUnfocusedSelectedBackgroundColor": "#1a2540",
+  "TabUnfocusedSelectedForegroundColor": "#cfd7e0",
+  "TabMouseOverCloseButtonColor": "#ff7070",
 
   "EditorColors": {
-    "editor.background": "#0b0f1a",
-    "editor.foreground": "#AAAAAA",
-    "editorLineNumber.foreground": "#FFFFFF",
-    "editorLineNumber.activeForeground": "#FFFFFF",
-    "editorCursor.foreground": "#FFFFFF",
-    "editor.selectionBackground": "#222222",
-    "editor.lineHighlightBackground": "#FFFFFF10",
-    "editorIndentGuide.background": "#1e1e1e",
-    "editorIndentGuide.activeBackground": "#383838",
-    "editorSuggestWidget.background": "#0b0f1a",
-    "editorSuggestWidget.border": "#2c2c2c",
-    "editorSuggestWidget.foreground": "#AAAAAA",
-    "editorSuggestWidget.selectedBackground": "#12192a",
-    "editorSuggestWidget.highlightForeground": "#FFFFFF",
-    "editorHoverWidget.background": "#0b0f1a",
-    "editorHoverWidget.border": "#2c2c2c",
-    "editorHoverWidget.foreground": "#AAAAAA",
-    "editorWidget.background": "#0b0f1a",
-    "editorWidget.border": "#2c2c2c"
+    "editor.background": "#101624",
+    "editor.foreground": "#d5d9e0",
+    "editorLineNumber.foreground": "#76829c",
+    "editorLineNumber.activeForeground": "#ffffff",
+    "editorCursor.foreground": "#8fb9e8",
+    "editor.selectionBackground": "#2d3c5a",  
+    "editor.lineHighlightBackground": "#1d2742",  
+    "editorIndentGuide.background": "#2a3244",
+    "editorIndentGuide.activeBackground": "#46506a",
+    "editorSuggestWidget.background": "#162036",
+    "editorSuggestWidget.border": "#2f3c55",
+    "editorSuggestWidget.foreground": "#d5d9e0",
+    "editorSuggestWidget.selectedBackground": "#1e2c47",
+    "editorSuggestWidget.highlightForeground": "#8fb9e8",
+    "editorHoverWidget.background": "#162036",
+    "editorHoverWidget.border": "#2f3c55",
+    "editorHoverWidget.foreground": "#d5d9e0",
+    "editorWidget.background": "#162036",
+    "editorWidget.border": "#2f3c55"
   },
 
-  "ToolTipBackgroundColor": "#171724",
-  "ToolTipBorderBrushColor": "#2B2B2B"
+  "ContextMenu": {
+    "Background": "#0d1420",
+    "BorderBrush": "#1c2740"
+  },
+
+  "MenuItemStyle": {
+    "Foreground": "#d5d9e0",
+    "HighlightBackground": "#1e2c47"
+  },
+
+  "ToolTipBackgroundColor": "#202a42",
+  "ToolTipBorderBrushColor": "#3a4052"
 }

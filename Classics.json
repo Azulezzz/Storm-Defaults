@@ -1,0 +1,149 @@
+{
+  "MetaData": {
+    "Name": "Storm Classic",
+    "Author": "Storm Softworks LLC",
+    "Description": "Taken from Storm's old Interface, dates back to 2019.",
+    "PreviewImage": "",
+    "TitleImage": "https://i.imgur.com/1EqK0AE.png"
+  },
+
+  "ExplorerBorder": {
+    "Background": "#191c22",
+    "BorderBrush": "#232531"
+  },
+  "Terminal": {
+    "Background": "#17191d",
+    "BorderBrush": "#232531"
+  },
+  "TitleBar": {
+    "Background": "#191c22",
+    "BorderBrush": "#232531"
+  },
+  "DebugInfoBorder": {
+    "Background": "#191c22",
+    "BorderBrush": "#232531"
+  },
+  "FileGrid": {
+    "Background": "#17191d",
+    "BorderBrush": "#232531"
+  },
+  "SettingsSidebar": {
+    "Background": "#191c22",
+    "BorderBrush": "#232531"
+  },
+  "SettingsMainUi": {
+    "Background": "#17191d",
+    "BorderBrush": "#232531"
+  },
+  "ThemeBorder": {
+    "Background": "#17191d",
+    "BorderBrush": "#232531"
+  },
+  "TabBackgroundBehind": {
+    "Background": "#17191d",
+    "BorderBrush": "#232531"
+  },
+
+  "InputBox": {
+    "Background": "#191c22",
+    "BorderBrush": "#232531"
+  },
+  "RepoInsalltitleBar": {
+    "Background": "#191c22",
+    "BorderBrush": "#232531"
+  },
+  "ConfirmCoreBorder": {
+    "Background": "#191c22",
+    "BorderBrush": "#232531"
+  },
+  "SplashStartup": {
+    "Background": "#17191d",
+    "BorderBrush": "#232531"
+  },
+
+  "EditorBackground": "#1a1d24",
+  "TabBackgroundColor": "#17191d",
+  "TabSelectedBackgroundColor": "#1a1d24",
+  "TabBorderBrushColor": "#232531",
+  "TabTopBarColor": "#232531",
+  "TabForegroundColor": "#b0b0b0",
+  "TabSelectedForegroundColor": "#ffffff",
+  "TabCloseButtonForegroundColor": "#aaaaaa",
+  "TabHoverBackgroundColor": "#1d2027",
+  "TabHoverForegroundColor": "#ffffff",
+  "TabInactiveBackgroundColor": "#17191d",
+  "TabDisabledBackgroundColor": "#1a1d23",
+  "TabDisabledForegroundColor": "#555555",
+  "TabUnfocusedSelectedBackgroundColor": "#1a1d24",
+  "TabUnfocusedSelectedForegroundColor": "#bbbbbb",
+  "TabMouseOverCloseButtonColor": "#ff5555",
+
+  "EditorColors": {
+    "editor.background": "#1a1d24",
+    "editor.foreground": "#cccccc",
+    "editorLineNumber.foreground": "#777777",
+    "editorLineNumber.activeForeground": "#ffffff",
+    "editorCursor.foreground": "#ffffff",
+    "editor.selectionBackground": "#2b2d34",
+    "editor.lineHighlightBackground": "#23253133",
+    "editorIndentGuide.background": "#232531",
+    "editorIndentGuide.activeBackground": "#40444d",
+    "editorSuggestWidget.background": "#1a1d24",
+    "editorSuggestWidget.border": "#232531",
+    "editorSuggestWidget.foreground": "#cccccc",
+    "editorSuggestWidget.selectedBackground": "#191c22",
+    "editorSuggestWidget.highlightForeground": "#ffffff",
+    "editorHoverWidget.background": "#1a1d24",
+    "editorHoverWidget.border": "#232531",
+    "editorHoverWidget.foreground": "#cccccc",
+    "editorWidget.background": "#1a1d24",
+    "editorWidget.border": "#232531"
+  },
+
+  "ToolTipBackgroundColor": "#191c22",
+  "ToolTipBorderBrushColor": "#232531",
+
+  "MenuItemStyle": {
+    "Foreground": "#cccccc",
+    "Background": "#191c22",
+    "HighlightBackground": "#232531"
+  },
+  "SubmenuItemStyle": {
+    "Foreground": "#cccccc",
+    "Background": "#191c22",
+    "HighlightBackground": "#232531"
+  },
+
+  "ContextMenu": {
+    "Background": "#191c22",
+    "BorderBrush": "#232531",
+    "Foreground": "#cccccc",
+    "HighlightBackground": "#232531"
+  },
+
+
+  "WindowBorderBrush": "#232531",
+  "WindowBackground": "#17191d",
+
+  "ScrollBar": {
+    "ThumbColor": "#232531",
+    "TrackColor": "#191c22",
+    "HoverThumbColor": "#40444d"
+  },
+
+  "Button": {
+    "Foreground": "#ffffff",
+    "Background": "#191c22",
+    "BorderBrush": "#232531",
+    "HoverBackground": "#232531",
+    "PressedBackground": "#40444d"
+  },
+
+  "CheckBox": {
+    "Foreground": "#cccccc",
+    "Background": "#191c22",
+    "BorderBrush": "#232531",
+    "CheckedBackground": "#3a8dff",
+    "CheckedForeground": "#ffffff"
+  }
+}
